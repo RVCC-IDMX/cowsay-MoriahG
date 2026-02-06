@@ -6,9 +6,9 @@ Use this checklist to verify your work before submitting. Every item should be c
 
 ## Project setup
 
-- [ ] `package.json` exists in root folder
-- [ ] `package-lock.json` exists (auto-generated)
-- [ ] `node_modules/` folder exists with cowsay installed
+- [x] `package.json` exists in root folder
+- [x] `package-lock.json` exists (auto-generated)
+- [x] `node_modules/` folder exists with cowsay installed
 
 ## npm scripts
 
