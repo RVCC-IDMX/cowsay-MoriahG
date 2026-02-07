@@ -12,32 +12,32 @@ Use this checklist to verify your work before submitting. Every item should be c
 
 ## npm scripts
 
-- [ ] `package.json` contains a `"cowsay"` script
-- [ ] `package.json` contains a `"moo"` script
-- [ ] `package.json` contains a custom `"favorite"` script with your chosen creature/message
-- [ ] Running `npm run moo` displays a cow saying "Hello from npm scripts!"
-- [ ] Running `npm run favorite` displays your custom cowsay
+- [x] `package.json` contains a `"cowsay"` script
+- [x] `package.json` contains a `"moo"` script
+- [x] `package.json` contains a custom `"favorite"` script with your chosen creature/message
+- [x] Running `npm run moo` displays a cow saying "Hello from npm scripts!"
+- [x] Running `npm run favorite` displays your custom cowsay
 
 ## Student-created documentation
 
-- [ ] `docs/tutorial-package-json.md` — explains package.json fields
+- [x] `docs/tutorial-package-json.md` — explains package.json fields
 
 ## README
 
-- [ ] `README.md` has a level 1 heading with your project title
-- [ ] `README.md` includes at least one cowsay ASCII art output
-- [ ] Cowsay output is wrapped in a code fence (triple backticks)
-- [ ] README displays correctly on GitHub.com
+- [x] `README.md` has a level 1 heading with your project title
+- [x] `README.md` includes at least one cowsay ASCII art output
+- [x] Cowsay output is wrapped in a code fence (triple backticks)
+- [x] README displays correctly on GitHub.com
 
 ## Reflection
 
-- [ ] `ai-collaboration-summary-template.md` is filled out
+- [x] `ai-collaboration-summary-template.md` is filled out
 
 ## Git history
 
-- [ ] Multiple commits (not just one giant commit at the end)
-- [ ] Commit messages describe what changed
-- [ ] All changes pushed to GitHub
+- [x] Multiple commits (not just one giant commit at the end)
+- [x] Commit messages describe what changed
+- [x] All changes pushed to GitHub
 
 ---
 
